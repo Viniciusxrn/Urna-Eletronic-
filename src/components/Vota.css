@@ -1,0 +1,53 @@
+.container
+{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+.p11
+{
+    color:orange;
+    font-size:50px;
+    font-family:'Times New Roman', Times, serif;
+
+}
+.i11
+{
+    width:350px;
+    border-radius:10px;
+
+}
+.b11
+{
+    height:20px;
+    width:100px;
+    border-radius:5px;
+    cursor:pointer;
+}
+.b11:hover
+{
+    background-color:rgb(0, 94, 94);
+    color:yellow;
+    font-size:12px;
+}
+.p12
+{
+    color:white;
+    font-size:15px;
+}
+.Imagem{
+    height:180px;
+    width:200px;
+}
+.bSub{
+    height:20px;
+    width:100px;
+    cursor:pointer;
+    font-size:12px;
+}
+.bSub:hover{
+    background-color:rgb(0, 94, 94);
+    color:yellow;
+    
+}
